@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+.env
+
+# Python Compiled Files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+
+# Logs
+*.log
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Vercel Serverless
+.vercel/
+todo.txt
+run_seed.py
+list_data.py
+
+chatbot_implementation_summary.md
